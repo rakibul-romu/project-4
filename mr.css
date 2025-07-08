@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+}
+header{
+    position:relative;
+    justify-content: space-between;
+    align-items: center;
+    display:flex;
+}
+header .logo img {
+/* position: relative;
+justify-content: center;
+align-items: center; */
+width: 97px;
+height: 37.77px;
+margin: 20px;
+
+}
